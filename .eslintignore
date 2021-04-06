@@ -1,0 +1,6 @@
+node_modules
+build
+.github
+.eslintrc.js
+src/service-worker.ts
+src/serviceWorkerRegistration.ts
